@@ -1,7 +1,7 @@
 # rai-hello
 
 This is only a test.
-FOR RAI
+FOR RAI TUTTO
 
 To release a new package on GitHub and npm:
 
