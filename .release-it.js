@@ -15,7 +15,7 @@ module.exports = {
     ]
   },
   github: {
-    release: false
+    release: true
   },
   npm: {
     publish: true
