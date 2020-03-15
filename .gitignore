@@ -1,0 +1,9 @@
+.idea/
+node_modules/
+dist/
+generated/
+npm-debug.log
+yarn-error.log
+coverage
+.vscode
+.npmrc
