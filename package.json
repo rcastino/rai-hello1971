@@ -1,6 +1,6 @@
 {
   "name": "rai-hello1971",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "Hello World sample app",
   "main": "index.js",
   "scripts": {
