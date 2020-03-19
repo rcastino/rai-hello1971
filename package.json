@@ -1,6 +1,6 @@
 {
-  "name": "rai-hello1971",
-  "version": "3.1.0",
+  "name": "@rcastino/rai-hello1971",
+  "version": "4.0.0",
   "description": "Hello World sample app",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
     "registry": "https://npm.pkg.github.com"
   },
   "author": "rai",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcastino/rai-hello1971.git"
+  }
 }
