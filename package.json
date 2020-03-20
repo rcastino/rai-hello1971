@@ -1,6 +1,6 @@
 {
   "name": "@rcastino/rai-hello1971",
-  "version": "5.5.3",
+  "version": "5.5.5",
   "description": "Hello World sample app",
   "main": "index.js",
   "scripts": {
